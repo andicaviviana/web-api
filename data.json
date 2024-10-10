@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "nombre": "Firulais",
+      "especie": "perro",
+      "raza": "labrador",
+      "edad": 5,
+      "dueño": "Juan Pérez",
+      "telefono": "1234567890",
+      "historial": [
+        "vacunación",
+        "desparasitación"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Miau",
+      "especie": "gato",
+      "raza": "Birbano",
+      "edad": 3,
+      "dueño": "María López",
+      "telefono": "0987654321",
+      "historial": [
+        "consulta pre y post operatoria"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Marcelo",
+      "especie": "perro",
+      "raza": "pastor aleman",
+      "edad": 5,
+      "dueño": "Ana Fuentes",
+      "telefono": "1234567890",
+      "historial": [
+        "consulta pre y post operatoria"
+      ]
+    }
+  ]
